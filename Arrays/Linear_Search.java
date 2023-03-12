@@ -2,8 +2,8 @@ package com.company.Arrays;
 
 public class Linear_Search {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
-        int target = 10;
+        int[] arr = {1, 22, 38, 4, 15, 16, 7, 81, 9, 10};
+        int target = 9;
         System.out.println(linearSearch(arr, target));
     }
 
