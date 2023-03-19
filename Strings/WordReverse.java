@@ -3,7 +3,7 @@ package com.company.Strings;
 public class WordReverse {
     public static void main(String[] args) {
 
-        String str = "why soo serious";
+        String str = "I am Pankaj Kumar";
         System.out.println(reverse(str));
     }
 
